@@ -1,0 +1,1 @@
+# This repository "Python" hosts sample codes written in Python. Some code files are in a non-working state as they are meant to explore how to fix a bug or an error, while others are ready-to-be-executed.
